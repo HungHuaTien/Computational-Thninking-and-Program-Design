@@ -1,4 +1,5 @@
-# Computational-Thninking-and-Program-Design   運算思維與程式設計
+# Computational-Thninking-and-Program-Design   
+運算思維與程式設計
 
 ## 課程說明
 
