@@ -1,4 +1,10 @@
 # Computational-Thninking-and-Program-Design 運算思維與程式設計
+
+## 聯絡方式
+
+- 電子信箱：bigflowerfrancis@gmail.com
+- FB：BigflowerFrancis（請直接用Messanger傳訊息給我，不用和我作朋友。）
+
 ## 每週課程公告
 
 **第一週2022/09/22(四）**
@@ -11,13 +17,13 @@
 | 4. **錄影連結**      |                         |      
 | 5. **其他事項**      |                         |      
 
-## 1. 課程說明
+## 課程說明
 
 本課程以循序漸進地方式介紹 Python 程式語言，希望使學生瞭解程式設計的邏輯；同時，更希望訓練學生獨立思考、分析、判斷的能力，進而從中習得探索問題的方法，養成「用電腦解決問題」的習慣。也就是，「從做中學，用Python學習運算思維與程式設計」。
 
 本課程屬於入門性質，旨在拉齊各種資訊素養背景學生的程度，讓同學瞭解邏輯在運算思維與程式設計中的重要性。由於是全校的必修課，授課內容不分科系，與同學專業有關的程式內容，日後高年級時由各系自行安排。
 
-## 2. 軟體網址
+## 軟體網址
 
 **Google Colab：https://colab.research.google.com/**
 
@@ -25,7 +31,7 @@ Xmind下載: https://actsmind.com/blog/xmind/xmind3download
 
 Anaconda下載: https://www.anaconda.com/products/individual 
 
-## 3. 成績計算
+## 成績計算
 
 **I.課堂參與10分** 
 
@@ -45,7 +51,7 @@ Anaconda下載: https://www.anaconda.com/products/individual
 
 ～對成績有疑問者，請於當次公布成績後一星期內聯絡老師。
 
-## 4. 教學進度
+## 教學進度
 
 | 週次Weeks | 進度內容Schedule                        |
 | --------- | --------------------------------------- |
