@@ -5,7 +5,7 @@
 - 電子信箱：bigflowerfrancis@gmail.com
 - FB：BigflowerFrancis（請直接用Messanger傳訊息給我，不用和我作朋友。）
 
-## 每週課程公告
+## 課程公告
 
 **第一週2022/09/22(四）**
 
