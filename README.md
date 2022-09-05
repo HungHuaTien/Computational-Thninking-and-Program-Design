@@ -45,7 +45,7 @@ Anaconda下載: https://www.anaconda.com/products/individual
 
 ～對成績有疑問者，請於當次公布成績後一星期內聯絡老師。
 
-## 教學進度
+## 4. 教學進度
 
 | 週次Weeks | 進度內容Schedule                        |
 | --------- | --------------------------------------- |
