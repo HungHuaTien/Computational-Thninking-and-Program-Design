@@ -3,21 +3,11 @@
 ## 聯絡方式
 
 - 電子信箱：bigflowerfrancis@gmail.com
-- FB：BigflowerFrancis（請直接用Messanger傳訊息給我。）
 - Line: BF-運算思維與程式設計群組。https://line.me/ti/g/_9XXB5Kw2R
 
 ## 課程公告
 
-**第一週2022/09/22(四）**
-
-| 教學進度             | 內容說明                | 
-| -------------------- | ----------------------- | 
-| 1. **課程內容**      | 課程綱要  |      
-| 2. **講義連結**      | https://reurl.cc/qNGL13  |      
-| 3. **MS Teams 連結** |  停課，用此遠距教學；平時，請看課堂錄影。   |      
-| 4. **錄影連結**      |                         |      
-| 5. **填寫期初問卷**      |  https://forms.gle/51AmMjz2ALaMW7qT7  |      
-| 6. **其他事項**      |    |    
+請填寫期初問卷，https://forms.gle/51AmMjz2ALaMW7qT7
 
 ## 課程說明
 
