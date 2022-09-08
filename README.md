@@ -3,11 +3,11 @@
 ## 聯絡方式
 
 - 電子信箱：bigflowerfrancis@gmail.com
+- FB：BigflowerFrancis（請直接用Messanger傳訊息給我即可。）
 - Line: BF-運算思維與程式設計群組。https://line.me/ti/g/_9XXB5Kw2R
 
 ## 課程公告
 
-請填寫期初問卷，https://forms.gle/51AmMjz2ALaMW7qT7
 
 ## 課程說明
 
