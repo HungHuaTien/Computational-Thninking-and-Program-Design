@@ -16,7 +16,8 @@
 | 1. **課程內容**      | 課程綱要                                 |
 | 2. **講義連結**      | https://reurl.cc/qNGL13                  |
 | 3. **MS Teams 連結** | 連結在下面，上完課後刪除。 |
-| 4. **錄影連結**      |                                          |
+| 4. **錄影連結**      |  https://youtu.be/yx0t8MRG2Us            |
+|     |             |
 | 5. **填寫期初問卷**  | https://forms.gle/51AmMjz2ALaMW7qT7      |
 | 6. **其他事項**      |                                          |
 
@@ -27,8 +28,6 @@
 
 請在您的電腦或行動裝置應用程式上加入會議
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzQxZDFlZWItN2FkNi00NzRmLWI0YTctOTBhNmY4NWM3MmQ5%40thread.v2/0?context=%7b%22Tid%22%3a%222657f537-d3e4-467b-8695-a9ac452ea000%22%2c%22Oid%22%3a%2256041ab9-fb2c-46b8-a329-178096a41ca6%22%7d
-
-
 
 
 ## 課程說明
