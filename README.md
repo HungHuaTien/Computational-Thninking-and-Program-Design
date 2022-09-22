@@ -16,7 +16,8 @@
 | 1. **課程內容**      | 課程綱要                                 |
 | 2. **講義連結**      | https://reurl.cc/qNGL13                  |
 | 3. **MS Teams 連結** | 連結在下面，上完課後刪除。 |
-| 4. **錄影連結**      |            |
+| 4. **錄影連結**      |  https://youtu.be/Njw-d18d2tA          |
+|                      | https://youtu.be/qiYB7HtgKC8      |
 | 5. **繳交作業連結**  | https://forms.gle/wEJ55po7yNmr9oLT9   |
 | 6. **其他事項**      |                                          |
 
