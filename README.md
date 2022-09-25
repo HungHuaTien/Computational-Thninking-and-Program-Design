@@ -9,6 +9,8 @@
 
 ## 課程公告
 
+作業繳交連結： https://forms.gle/fLXpMyFb5DZsKCAJ8
+
 **第二週2022/09/(四）**
 
 | 教學進度             | 內容說明                                 |
@@ -18,7 +20,7 @@
 | 3. **MS Teams 連結** | 連結在下面，上完課後刪除。 |
 | 4. **錄影連結**      |  https://youtu.be/Njw-d18d2tA          |
 |                      | https://youtu.be/qiYB7HtgKC8      |
-| 5. **繳交作業連結**  | https://forms.gle/wEJ55po7yNmr9oLT9   |
+| 5. **繳交作業連結**  |   |
 | 6. **其他事項**      |                                          |
 
 
