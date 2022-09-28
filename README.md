@@ -41,8 +41,7 @@ https://teams.microsoft.com/l/meetup-join/19%3ameeting_YzlhOTU1MDEtOGE3Yy00YzIwL
 | 3. **MS Teams 連結** | 連結在下面，上完課後刪除。 |
 | 4. **錄影連結**      |  https://youtu.be/Njw-d18d2tA          |
 |                      | https://youtu.be/qiYB7HtgKC8      |
-| 5. **繳交作業連結**  |   |
-| 6. **其他事項**      |                                          |
+                                     |
 
 
 **第一週2022/09/15(四）**
