@@ -11,6 +11,22 @@
 
 作業繳交連結： https://forms.gle/fLXpMyFb5DZsKCAJ8
 
+**第四週2022/10/06(四）**
+
+| 教學進度             | 內容說明                                 |
+| -------------------- | ---------------------------------------- |
+| 1. **課程內容**      | 輸入與輸出    |
+| 2. **講義連結**      | 請自Line群組下載               |
+| 3. **MS Teams 連結** | 連結在下面，上完課後刪除。 |
+| 4. **錄影連結**      |    |
+
+您受邀加入 Microsoft Teams 會議
+
+標題: TienHung-Hua 的 Teams 會議
+時間: 2022年10月6日 下午 01:00:00 台北標準時間
+
+請在您的電腦或行動裝置應用程式上加入會議
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_Yzk1YTNlMWYtZGRjYS00OGU3LWFlZTYtODk0MDQxNjY2Mzlj%40thread.v2/0?context=%7b%22Tid%22%3a%222657f537-d3e4-467b-8695-a9ac452ea000%22%2c%22Oid%22%3a%2256041ab9-fb2c-46b8-a329-178096a41ca6%22%7d
 
 **第三週2022/09/29(四）**
 
