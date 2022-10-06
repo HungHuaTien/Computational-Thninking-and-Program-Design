@@ -19,7 +19,7 @@
 | 2. **講義連結**      | 請自Line群組下載               |
 | 3. **MS Teams 連結** | 連結在下面，上完課後刪除。 |
 | 4. **錄影連結**      | https://youtu.be/j8IopM8FhUs   |
-|       |   |
+|       |https://youtu.be/kN4TdsjHFUc   |
 
 **第三週2022/09/29(四）**
 
