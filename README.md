@@ -11,6 +11,27 @@
 
 作業繳交連結： https://forms.gle/fLXpMyFb5DZsKCAJ8
 
+
+**第七週2022/10/27(四）**
+
+**注意：下週運算思維與程式設計考試（分組作業）！**
+
+| 教學進度             | 內容說明                                 |
+| -------------------- | ---------------------------------------- |
+| 1. **課程內容**      | 序列主題的應用 |
+| 2. **講義連結**      | 請自Line群組下載               |
+| 3. **MS Teams 連結** | 連結在下面，上完課後刪除。 |
+| 4. **錄影連結**      |  |
+|                     | |
+
+您受邀加入 Microsoft Teams 會議
+
+標題: TienHung-Hua 的 Teams 會議(Thinking)
+時間: 2022年10月27日 下午 01:00:00 台北標準時間
+
+請在您的電腦或行動裝置應用程式上加入會議
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDJiNjRhYzQtODZlZC00MDdkLWI5ZWQtNzg3YTAxNzFiMDYy%40thread.v2/0?context=%7b%22Tid%22%3a%222657f537-d3e4-467b-8695-a9ac452ea000%22%2c%22Oid%22%3a%2256041ab9-fb2c-46b8-a329-178096a41ca6%22%7d
+
 **第六週2022/10/20(四）**
 
 | 教學進度             | 內容說明                                 |
