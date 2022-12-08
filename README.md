@@ -11,6 +11,9 @@
 
 作業繳交連結： https://forms.gle/fLXpMyFb5DZsKCAJ8
 
+講義：https://hunghuatien.github.io/Web-Thinking/public/Handouts/forloop.pdf
+
+
 **第十二週2022/12/01(四）**
 
 
