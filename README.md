@@ -22,11 +22,9 @@ https://hunghuatien.github.io/Web-Thinking/public/Handouts/turtle.pdf
 | 1. **課程內容**      | for loop |
 | 2. **講義連結**      | 請自Line群組下載               |
 | 3. **MS Teams 連結** |見下面的連結 |
-| 4. **錄影連結**      | |
-|||
+| 4. **錄影連結**      |https://youtu.be/SgQyJJ7U6rg |
+||https://youtu.be/vMdAiV7ZaBE|
 | 5. 個人作業          ||
-
-
 
 您受邀加入 Microsoft Teams 會議
 
