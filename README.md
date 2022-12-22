@@ -11,6 +11,29 @@
 
 作業繳交連結： https://forms.gle/fLXpMyFb5DZsKCAJ8
 
+**第十五週2022/12/22(四）**
+
+講義：https://hunghuatien.github.io/Web-Thinking/public/Handouts/forloop.pdf
+
+| 教學進度             | 內容說明                                 |
+| -------------------- | ---------------------------------------- |
+| 1. **課程內容**      | for loop |
+| 2. **講義連結**      | 請自Line群組下載               |
+| 3. **MS Teams 連結** |見下面的連結 |
+| 4. **錄影連結**      | |
+|||
+| 5. 個人作業          ||
+
+
+
+您受邀加入 Microsoft Teams 會議
+
+標題: TienHung-Hua 的 Teams 會議
+時間: 2022年12月22日 下午 01:00:00 台北標準時間
+
+請在您的電腦或行動裝置應用程式上加入會議
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDI3MjA2ZGYtYzljZC00NTUxLThkYmItM2MyZDNmNWViZWI5%40thread.v2/0?context=%7b%22Tid%22%3a%222657f537-d3e4-467b-8695-a9ac452ea000%22%2c%22Oid%22%3a%2256041ab9-fb2c-46b8-a329-178096a41ca6%22%7d
+
 **第十四週2022/12/15(四）**
 
 
