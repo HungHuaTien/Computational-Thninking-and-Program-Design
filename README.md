@@ -15,6 +15,8 @@
 
 講義：https://hunghuatien.github.io/Web-Thinking/public/Handouts/forloop.pdf
 
+https://hunghuatien.github.io/Web-Thinking/public/Handouts/turtle.pdf
+
 | 教學進度             | 內容說明                                 |
 | -------------------- | ---------------------------------------- |
 | 1. **課程內容**      | for loop |
