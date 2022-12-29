@@ -15,8 +15,7 @@
 
 **第十六週2022/12/29(四）**
 
-講義：https://hunghuatien.github.io/Web-Thinking/public/Handouts/forloop.pdf
-
+講義：
 https://hunghuatien.github.io/Web-Thinking/public/Handouts/turtle.pdf
 
 | 教學進度             | 內容說明                                 |
