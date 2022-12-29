@@ -23,19 +23,10 @@ https://hunghuatien.github.io/Web-Thinking/public/Handouts/turtle.pdf
 | 1. **課程內容**      | 海龜繪圖 |
 | 2. **講義連結**      | 請自Line群組下載               |
 | 3. **MS Teams 連結** |見下面的連結 |
-| 4. **錄影連結**      | |
-|||
+| 4. **錄影連結**      |https://youtu.be/-wlVfI95vE8 |
+||https://youtu.be/gKEiXjyPDm8|
 | 5. 個人作業          ||
 
-
-
-您受邀加入 Microsoft Teams 會議
-
-標題: TienHung-Hua 的 Teams 會議
-時間: 2022年12月29日 下午 01:00:00 台北標準時間
-
-請在您的電腦或行動裝置應用程式上加入會議
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTkwZTYwMjAtYzdlMi00NTFjLWJmZDgtYzhlZGE5YmEwZjcw%40thread.v2/0?context=%7b%22Tid%22%3a%222657f537-d3e4-467b-8695-a9ac452ea000%22%2c%22Oid%22%3a%2256041ab9-fb2c-46b8-a329-178096a41ca6%22%7d
 
 **第十五週2022/12/22(四）**
 
